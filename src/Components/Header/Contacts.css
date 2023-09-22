@@ -1,0 +1,7 @@
+.banner-section
+{
+    background-image: url('../Header/images/image4.jpg');
+    background-size: cover;
+    background-position: center;
+    height:100vh;
+}

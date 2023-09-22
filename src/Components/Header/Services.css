@@ -1,0 +1,19 @@
+.service-section
+{
+    background-image: url('../Header/images/image3.jpg');
+    background-size: cover;
+    background-position: center;
+    height:100vh;
+}
+.btn2
+{
+    width: 150px;
+    height: 45px;
+    padding: 10px 30px;
+    background-color: black;
+    color: white;
+    font-weight: bolder;
+    border: none;
+    border-radius:6px;
+    margin-top: 25px;
+}
